@@ -1,5 +1,3 @@
-# 4-	Crie um algoritmo que leia um número e mostre o seu sobro, triplo e raiz quadrada.
-
 n = int(input('Digite um numero: '))
 dobro = n * 2
 triplo = n * 3
